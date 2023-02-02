@@ -1,0 +1,232 @@
+2023/02/02 15:32:44 RetCode:0  Selector:2
+[<Friend:CHN.YAO> <Friend:15003676584ᯤ²ᴳ> <Friend:小老章> <Friend:A day> <Friend:。>] <nil>
+2023/02/02 15:32:57 RetCode:0  Selector:2
+2023/02/02 15:32:58 request gtp json string : {"model":"text-davinci-003","prompt":"这个世界是真实的吗","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:32:58 RetCode:0  Selector:2
+2023/02/02 15:33:01 {"id":"cmpl-6fONXkgOlrBWKSLsTZrDPoBDekZvQ","object":"text_completion","created":1675323179,"model":"text-davinci-003","choices":[{"text":"\n\n这个世界是真实的。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":17,"total_tokens":33}}
+
+2023/02/02 15:33:01 gpt response text: 
+
+这个世界是真实的。 
+2023/02/02 15:33:09 RetCode:0  Selector:2
+2023/02/02 15:33:11 RetCode:0  Selector:2
+2023/02/02 15:33:19 RetCode:0  Selector:2
+2023/02/02 15:33:19 request gtp json string : {"model":"text-davinci-003","prompt":"这个世界是真实的吗","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:33:19 RetCode:0  Selector:2
+2023/02/02 15:33:28 {"id":"cmpl-6fONr5Lls7BhrBp5wNQj98TofJWCH","object":"text_completion","created":1675323199,"model":"text-davinci-003","choices":[{"text":"？\n\n这个世界可以说是真实的，也可以说是虚构的。它取决于你所处的情境，你怎么去看待它。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":83,"total_tokens":99}}
+
+2023/02/02 15:33:28 gpt response text: ？
+
+这个世界可以说是真实的，也可以说是虚构的。它取决于你所处的情境，你怎么去看待它。 
+2023/02/02 15:33:44 RetCode:0  Selector:0
+2023/02/02 15:33:44 RetCode:0  Selector:2
+2023/02/02 15:34:10 RetCode:0  Selector:0
+2023/02/02 15:34:35 RetCode:0  Selector:0
+2023/02/02 15:34:48 RetCode:0  Selector:2
+2023/02/02 15:35:13 RetCode:0  Selector:0
+2023/02/02 15:35:35 RetCode:0  Selector:2
+2023/02/02 15:35:36 request gtp json string : {"model":"text-davinci-003","prompt":"有关PHP编程的下列选项中，关于图片添加水印的说法错误的是（  ）A. 添加水印的本质就是图像的复制B. 网站中为图片添加水印的目的是防止图片被盗用C. 添加水印时，可以随意定义水印在图像中的位置D. PHP中有且仅有imagecopy()函数能实现为图片添加水印功能","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:35:36 RetCode:0  Selector:2
+2023/02/02 15:35:39 {"id":"cmpl-6fOQ5TyycXhPfzvinq9rZQZWvZ4H5","object":"text_completion","created":1675323337,"model":"text-davinci-003","choices":[{"text":"\n\nD. PHP中有且仅有imagecopy()函数能实现为图片添加水印功能","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":227,"completion_tokens":47,"total_tokens":274}}
+
+2023/02/02 15:35:39 gpt response text: 
+
+D. PHP中有且仅有imagecopy()函数能实现为图片添加水印功能 
+2023/02/02 15:36:01 RetCode:0  Selector:0
+2023/02/02 15:36:01 RetCode:0  Selector:2
+2023/02/02 15:36:14 RetCode:0  Selector:2
+2023/02/02 15:36:14 request gtp json string : {"model":"text-davinci-003","prompt":"下列选项中，可以实现添加半透明水印的函数是（  ）A. imagecopy()B. imagecopymerge() C. imagecopyresized()D. imagecopyresampled()","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:36:14 RetCode:0  Selector:2
+2023/02/02 15:36:16 {"id":"cmpl-6fOQhTbizuYD6gfzJErFjeZqvgZ7L","object":"text_completion","created":1675323375,"model":"text-davinci-003","choices":[{"text":"\n\nB. imagecopymerge()","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":77,"completion_tokens":9,"total_tokens":86}}
+
+2023/02/02 15:36:16 gpt response text: 
+
+B. imagecopymerge() 
+2023/02/02 15:36:23 RetCode:0  Selector:2
+2023/02/02 15:36:28 RetCode:0  Selector:2
+2023/02/02 15:36:31 RetCode:0  Selector:2
+2023/02/02 15:36:57 RetCode:0  Selector:0
+2023/02/02 15:37:07 RetCode:0  Selector:2
+2023/02/02 15:37:08 request gtp json string : {"model":"text-davinci-003","prompt":"为什么我的小保底会歪","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:37:08 RetCode:0  Selector:2
+2023/02/02 15:37:19 RetCode:0  Selector:2
+2023/02/02 15:37:23 RetCode:0  Selector:2
+2023/02/02 15:37:28 {"id":"cmpl-6fORZgkLYpUUz6WfBXH2w8SPZs2Mm","object":"text_completion","created":1675323429,"model":"text-davinci-003","choices":[{"text":"斜\n\n小保底可能会歪斜是因为椅子不平衡，椅子底部可能有残留的毛发，污渍或其他杂物，或者椅子底部有碰撞，都会导致小保底歪斜。此外，如果椅子结构不当，也可能导致小保底歪斜。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":19,"completion_tokens":176,"total_tokens":195}}
+
+2023/02/02 15:37:28 gpt response text: 斜
+
+小保底可能会歪斜是因为椅子不平衡，椅子底部可能有残留的毛发，污渍或其他杂物，或者椅子底部有碰撞，都会导致小保底歪斜。此外，如果椅子结构不当，也可能导致小保底歪斜。 
+2023/02/02 15:37:28 RetCode:0  Selector:2
+2023/02/02 15:37:29 RetCode:0  Selector:2
+2023/02/02 15:37:55 RetCode:0  Selector:0
+2023/02/02 15:37:58 RetCode:0  Selector:2
+2023/02/02 15:38:02 RetCode:0  Selector:2
+2023/02/02 15:38:02 request gtp json string : {"model":"text-davinci-003","prompt":"程富恒是不是卷王","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:38:02 RetCode:0  Selector:2
+2023/02/02 15:38:07 {"id":"cmpl-6fOSQWuGHGxWBmwpopBfOquYa6yGo","object":"text_completion","created":1675323482,"model":"text-davinci-003","choices":[{"text":"\n\n答：不是。程富恒是一家从事汽车维修及配件销售的公司，而卷王则是一家专门从事办公用品销售的公司。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":14,"completion_tokens":98,"total_tokens":112}}
+
+2023/02/02 15:38:07 gpt response text: 
+
+答：不是。程富恒是一家从事汽车维修及配件销售的公司，而卷王则是一家专门从事办公用品销售的公司。 
+2023/02/02 15:38:13 RetCode:0  Selector:2
+2023/02/02 15:38:15 RetCode:0  Selector:2
+2023/02/02 15:38:16 RetCode:0  Selector:2
+2023/02/02 15:38:41 RetCode:0  Selector:0
+2023/02/02 15:39:00 RetCode:0  Selector:2
+2023/02/02 15:39:01 request gtp json string : {"model":"text-davinci-003","prompt":"写一篇黄越明称霸世界的文章，不少于1万字","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:39:01 RetCode:0  Selector:2
+2023/02/02 15:39:19 RetCode:0  Selector:2
+2023/02/02 15:39:45 RetCode:0  Selector:2
+2023/02/02 15:40:10 RetCode:0  Selector:0
+2023/02/02 15:40:15 {"id":"cmpl-6fOTNZUcQ5Rzsq9gqwlBUsDxOVCzF","object":"text_completion","created":1675323541,"model":"text-davinci-003","choices":[{"text":"\n\n黄越明称霸世界\n\n黄越明，有着“世界大帝”称号的著名豪杰，他以其出色的统治技巧和强大的军事实力称霸了整个世界。\n\n黄越明生于古老的中国，他有着非凡的智慧，聪明勤奋，为人果断，见解独到，精于变通，努力创新，注重军事实力的增强，凭借坚定的信念和顽强的斗志，赢得了众多国家的尊重和敬仰。\n\n黄越明继承了传统的中国政治思想和经济管理理念，采取了多重政策，在政治上强化国家统一，社会秩序，经济上推动经济发展，文化上提倡文明文化，把中国建设成为一个强大的大国，在整个世界都享有盛誉。\n\n此外，黄越明还采取了一系列措施来加强国家军事实力，加大军备，提升军队战斗力，建立了一支强大的空军，拥有更先进的武器装备，派出大量的军队实施境外扩张，以及对外开拓，把中国建设成为一个全球霸主，控制着整个世界的命运。\n\n最后，黄越明又派遣大量的探险家和航海家，开拓新的航路，传播中国文化，把中国文化传播到世界各地，推动了中国文化的全球化，这也使得中国成为世界上著名的文化大国。\n\n黄越明的统治使他的名字成为世界上永远流传的象征，在他的统治下，中国发展成为一个强大的大国，他的政策和行为深深地影响了中国的历史和文化，改变了世界的历史进程。黄越明的伟大统治使他成为一个受人尊敬的传奇人物，他的传奇统治也让中国成为了一个世界霸主。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":42,"completion_tokens":1159,"total_tokens":1201}}
+
+2023/02/02 15:40:15 gpt response text: 
+
+黄越明称霸世界
+
+黄越明，有着“世界大帝”称号的著名豪杰，他以其出色的统治技巧和强大的军事实力称霸了整个世界。
+
+黄越明生于古老的中国，他有着非凡的智慧，聪明勤奋，为人果断，见解独到，精于变通，努力创新，注重军事实力的增强，凭借坚定的信念和顽强的斗志，赢得了众多国家的尊重和敬仰。
+
+黄越明继承了传统的中国政治思想和经济管理理念，采取了多重政策，在政治上强化国家统一，社会秩序，经济上推动经济发展，文化上提倡文明文化，把中国建设成为一个强大的大国，在整个世界都享有盛誉。
+
+此外，黄越明还采取了一系列措施来加强国家军事实力，加大军备，提升军队战斗力，建立了一支强大的空军，拥有更先进的武器装备，派出大量的军队实施境外扩张，以及对外开拓，把中国建设成为一个全球霸主，控制着整个世界的命运。
+
+最后，黄越明又派遣大量的探险家和航海家，开拓新的航路，传播中国文化，把中国文化传播到世界各地，推动了中国文化的全球化，这也使得中国成为世界上著名的文化大国。
+
+黄越明的统治使他的名字成为世界上永远流传的象征，在他的统治下，中国发展成为一个强大的大国，他的政策和行为深深地影响了中国的历史和文化，改变了世界的历史进程。黄越明的伟大统治使他成为一个受人尊敬的传奇人物，他的传奇统治也让中国成为了一个世界霸主。 
+2023/02/02 15:40:16 RetCode:0  Selector:2
+2023/02/02 15:40:16 request gtp json string : {"model":"text-davinci-003","prompt":"写一篇贺静然成为首富的文章，不少于1万字","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:40:16 RetCode:0  Selector:2
+2023/02/02 15:40:18 RetCode:0  Selector:2
+2023/02/02 15:40:39 RetCode:0  Selector:2
+2023/02/02 15:40:49 RetCode:0  Selector:2
+2023/02/02 15:40:52 RetCode:0  Selector:2
+2023/02/02 15:41:11 RetCode:0  Selector:2
+2023/02/02 15:41:15 RetCode:0  Selector:2
+2023/02/02 15:41:15 request gtp json string : {"model":"text-davinci-003","prompt":"陈鹏林的身份","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:41:15 RetCode:0  Selector:2
+2023/02/02 15:41:18 {"id":"cmpl-6fOVXX5vNzM4RL3cvSGbOq2sEztn6","object":"text_completion","created":1675323675,"model":"text-davinci-003","choices":[{"text":"证号\n\n陈鹏林的身份证号不详，具体可以咨询有关部门。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":53,"total_tokens":68}}
+
+2023/02/02 15:41:18 gpt response text: 证号
+
+陈鹏林的身份证号不详，具体可以咨询有关部门。 
+2023/02/02 15:41:33 RetCode:0  Selector:2
+2023/02/02 15:41:36 RetCode:0  Selector:2
+2023/02/02 15:41:36 RetCode:0  Selector:2
+2023/02/02 15:41:38 {"id":"cmpl-6fOUaQGeXzpelS7u0Ej6TdesFSGv3","object":"text_completion","created":1675323616,"model":"text-davinci-003","choices":[{"text":"\n\n静然成为首富，一个曾经只是普通人的梦想，如今却成为了现实。静然，一个名叫静然的小伙子，经过几年的努力和技能的提升，终于登上了首富之巅，成为了一个真正的首富，让全世界都为之震惊。\n\n这一切的发生，都要从静然几年前开始说起。静然是一名优秀的学生，从小就展现出超常的智慧，尤其是对金融学方面的认识，更是让人惊叹。\n\n但尽管对金融学有着极高的认知，他却还是选择了一条普通的道路，报考了一所普通的大学，就读了金融系，为的就是把自己的潜力充分发挥出来。\n\n经过几年的学习，静然的金融学知识变得越来越丰富，他也开始在金融方面发挥自己的能力，不仅在考试中取得优异成绩，也逐渐开始参与到金融投资中来，逐渐提升自己的投资能力，经过几年的学习和实践，静然的金融投资能力也越来越出色。\n\n不久，静然的名字开始在金融圈里传开，他凭借着自己的投资技能，在一次又一次的投资中取得了巨大的成功，赚取了大量的财富，终于，在一次的投资中，静然最终登上了首富之巅，成为了一个真正的首富，让全世界都为之震惊。\n\n静然成为首富，不仅仅只是他自己的梦想实现，更是一个对普通人来说的激励。因为他的成功，让更多的人开始相信，只要有梦想，只要有努力，普通人也可以登上首富之巅，让自己的梦想变为现实。\n\n虽然静然已经成为了首富，但他并没有停止自己的努力，他依然不懈地投入到金融投资中去，希望可以为更多的人带来更多的福利。他也开始发起许多有益的慈善活动，希望可以为社会带来更多的福祉。\n\n静然成为首富，不仅仅是他自己的梦想实现，更是一个对普通人来说的激励。他的成功，不仅给他带来了更多的财富，更给了更多的人一个机会，一个可以实现自己梦想的机会，一个可以让普通人也可以成为首富的机会。\n\n静然成为首富，让全世界都为之震惊，也让普通人也有了希望。他的成功，不仅仅只是他的梦想实现，更是一个对普通人来说的激励，他的成功，让更多的人开始相信，只要有梦想，只要有努力，普通人也可以登上首富之巅，成功实现自己的梦想。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":41,"completion_tokens":1741,"total_tokens":1782}}
+
+2023/02/02 15:41:38 gpt response text: 
+
+静然成为首富，一个曾经只是普通人的梦想，如今却成为了现实。静然，一个名叫静然的小伙子，经过几年的努力和技能的提升，终于登上了首富之巅，成为了一个真正的首富，让全世界都为之震惊。
+
+这一切的发生，都要从静然几年前开始说起。静然是一名优秀的学生，从小就展现出超常的智慧，尤其是对金融学方面的认识，更是让人惊叹。
+
+但尽管对金融学有着极高的认知，他却还是选择了一条普通的道路，报考了一所普通的大学，就读了金融系，为的就是把自己的潜力充分发挥出来。
+
+经过几年的学习，静然的金融学知识变得越来越丰富，他也开始在金融方面发挥自己的能力，不仅在考试中取得优异成绩，也逐渐开始参与到金融投资中来，逐渐提升自己的投资能力，经过几年的学习和实践，静然的金融投资能力也越来越出色。
+
+不久，静然的名字开始在金融圈里传开，他凭借着自己的投资技能，在一次又一次的投资中取得了巨大的成功，赚取了大量的财富，终于，在一次的投资中，静然最终登上了首富之巅，成为了一个真正的首富，让全世界都为之震惊。
+
+静然成为首富，不仅仅只是他自己的梦想实现，更是一个对普通人来说的激励。因为他的成功，让更多的人开始相信，只要有梦想，只要有努力，普通人也可以登上首富之巅，让自己的梦想变为现实。
+
+虽然静然已经成为了首富，但他并没有停止自己的努力，他依然不懈地投入到金融投资中去，希望可以为更多的人带来更多的福利。他也开始发起许多有益的慈善活动，希望可以为社会带来更多的福祉。
+
+静然成为首富，不仅仅是他自己的梦想实现，更是一个对普通人来说的激励。他的成功，不仅给他带来了更多的财富，更给了更多的人一个机会，一个可以实现自己梦想的机会，一个可以让普通人也可以成为首富的机会。
+
+静然成为首富，让全世界都为之震惊，也让普通人也有了希望。他的成功，不仅仅只是他的梦想实现，更是一个对普通人来说的激励，他的成功，让更多的人开始相信，只要有梦想，只要有努力，普通人也可以登上首富之巅，成功实现自己的梦想。 
+2023/02/02 15:41:49 RetCode:0  Selector:2
+2023/02/02 15:41:51 RetCode:0  Selector:2
+2023/02/02 15:41:52 RetCode:0  Selector:2
+2023/02/02 15:41:56 RetCode:0  Selector:2
+2023/02/02 15:41:57 RetCode:0  Selector:2
+2023/02/02 15:42:08 RetCode:0  Selector:2
+2023/02/02 15:42:33 RetCode:0  Selector:0
+2023/02/02 15:42:36 RetCode:0  Selector:2
+2023/02/02 15:42:37 request gtp json string : {"model":"text-davinci-003","prompt":"给黄越明介绍一个女朋友","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:42:37 RetCode:0  Selector:2
+2023/02/02 15:42:41 RetCode:0  Selector:2
+2023/02/02 15:42:41 request gtp json string : {"model":"text-davinci-003","prompt":"写一篇陈鹏林成为内卷之王的经历","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:42:42 RetCode:0  Selector:2
+2023/02/02 15:42:50 {"id":"cmpl-6fOWrsyiXHdLcYlLYc3XP1qOECa6B","object":"text_completion","created":1675323757,"model":"text-davinci-003","choices":[{"text":"\n\n黄越明，我给你介绍的这位女朋友叫谢文涛，她是一个热情友好的女孩，性格开朗，乐观向上。她是一个很有天赋的音乐家，有着迷人的歌声。此外，她还有着宽广的知识面，能够聊得来各种话题。她乐于助人，在同学和朋友中受到普遍欢迎，有着受人尊敬的个性。总之，她是一位很棒的女孩，也是一个很好的朋友。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":24,"completion_tokens":284,"total_tokens":308}}
+
+2023/02/02 15:42:50 gpt response text: 
+
+黄越明，我给你介绍的这位女朋友叫谢文涛，她是一个热情友好的女孩，性格开朗，乐观向上。她是一个很有天赋的音乐家，有着迷人的歌声。此外，她还有着宽广的知识面，能够聊得来各种话题。她乐于助人，在同学和朋友中受到普遍欢迎，有着受人尊敬的个性。总之，她是一位很棒的女孩，也是一个很好的朋友。 
+2023/02/02 15:43:01 RetCode:0  Selector:2
+2023/02/02 15:43:03 RetCode:0  Selector:2
+2023/02/02 15:43:08 {"id":"cmpl-6fOWwtWn3qY4PGaoX1EJAUP1ZQQY3","object":"text_completion","created":1675323762,"model":"text-davinci-003","choices":[{"text":"\n\n陈鹏林在2020年的中国滚球大赛中脱颖而出，成为内卷之王，这是他一路艰苦奋斗的结果。\n\n陈鹏林从小就喜欢滚球，他经常参加当地的比赛，并取得不错的成绩。他的滚球技术得到了老师的认可，并被推荐参加2020年的中国滚球大赛。\n\n陈鹏林知道，这是一个很大的挑战，他给自己定下了一个目标，就是要成为内卷之王。于是他开始了艰苦的训练，每天花费大量的时间来练习，他还加强了身体训练，让自己在比赛中更加充沛。\n\n最后，他的努力得到了回报，他在2020年的中国滚球大赛中脱颖而出，成为内卷之王。陈鹏林成为内卷之王，他感到无比的欣慰，他也受到了周围人的称赞，他更加坚信自己可以成功。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":31,"completion_tokens":574,"total_tokens":605}}
+
+2023/02/02 15:43:08 gpt response text: 
+
+陈鹏林在2020年的中国滚球大赛中脱颖而出，成为内卷之王，这是他一路艰苦奋斗的结果。
+
+陈鹏林从小就喜欢滚球，他经常参加当地的比赛，并取得不错的成绩。他的滚球技术得到了老师的认可，并被推荐参加2020年的中国滚球大赛。
+
+陈鹏林知道，这是一个很大的挑战，他给自己定下了一个目标，就是要成为内卷之王。于是他开始了艰苦的训练，每天花费大量的时间来练习，他还加强了身体训练，让自己在比赛中更加充沛。
+
+最后，他的努力得到了回报，他在2020年的中国滚球大赛中脱颖而出，成为内卷之王。陈鹏林成为内卷之王，他感到无比的欣慰，他也受到了周围人的称赞，他更加坚信自己可以成功。 
+2023/02/02 15:43:09 RetCode:0  Selector:2
+2023/02/02 15:43:15 RetCode:0  Selector:2
+2023/02/02 15:43:30 RetCode:0  Selector:2
+2023/02/02 15:43:39 RetCode:0  Selector:2
+2023/02/02 15:43:47 RetCode:0  Selector:0
+2023/02/02 15:43:47 RetCode:0  Selector:0
+2023/02/02 15:43:48 RetCode:0  Selector:0
+2023/02/02 15:43:58 RetCode:0  Selector:0
+2023/02/02 15:43:59 RetCode:0  Selector:0
+2023/02/02 15:44:00 RetCode:0  Selector:0
+2023/02/02 15:44:00 RetCode:0  Selector:0
+2023/02/02 15:44:07 RetCode:0  Selector:0
+2023/02/02 15:44:07 RetCode:0  Selector:0
+2023/02/02 15:44:08 RetCode:0  Selector:0
+2023/02/02 15:44:09 RetCode:0  Selector:0
+2023/02/02 15:44:15 RetCode:0  Selector:2
+2023/02/02 15:44:20 RetCode:0  Selector:2
+2023/02/02 15:44:45 RetCode:0  Selector:0
+2023/02/02 15:45:10 RetCode:0  Selector:0
+2023/02/02 15:45:35 RetCode:0  Selector:0
+2023/02/02 15:46:01 RetCode:0  Selector:0
+2023/02/02 15:46:01 RetCode:0  Selector:2
+2023/02/02 15:46:27 RetCode:0  Selector:0
+2023/02/02 15:46:33 RetCode:0  Selector:2
+2023/02/02 15:46:58 RetCode:0  Selector:0
+2023/02/02 15:47:17 RetCode:0  Selector:2
+2023/02/02 15:47:24 RetCode:0  Selector:2
+2023/02/02 15:47:35 RetCode:0  Selector:2
+2023/02/02 15:47:47 RetCode:0  Selector:2
+2023/02/02 15:47:50 RetCode:0  Selector:2
+2023/02/02 15:48:04 RetCode:0  Selector:2
+2023/02/02 15:48:05 RetCode:0  Selector:2
+2023/02/02 15:48:19 RetCode:0  Selector:2
+2023/02/02 15:48:28 RetCode:0  Selector:2
+2023/02/02 15:48:53 RetCode:0  Selector:0
+2023/02/02 15:49:18 RetCode:0  Selector:0
+2023/02/02 15:49:43 RetCode:0  Selector:0
+2023/02/02 15:50:05 RetCode:0  Selector:2
+2023/02/02 15:50:06 request gtp json string : {"model":"text-davinci-003","prompt":"给黄越明介绍三个女朋友让他随便挑","max_tokens":2048,"temperature":0.7,"top_p":1,"frequency_penalty":0,"presence_penalty":0}
+2023/02/02 15:50:06 RetCode:0  Selector:2
+2023/02/02 15:50:31 RetCode:0  Selector:0
+2023/02/02 15:50:56 {"id":"cmpl-6fOe7eoVyl5cY04wKvpswrgCC40b7","object":"text_completion","created":1675324207,"model":"text-davinci-003","choices":[{"text":"选\n\n1.张美丽：张美丽是一个热情的女孩，她热爱生活，乐于分享，热衷于交朋友。她总是乐于助人，总是乐于分享，非常乐观，非常勤奋，充满正能量！\n\n2.李慧：李慧是一个非常有才华的女孩，她有着非常棒的艺术天赋，可以在绘画，书法，音乐，舞蹈等方面表现出色。她也非常善良，富有同情心，乐于帮助他人，并且有着不凡的心智。\n\n3.陈思：陈思是一个非常聪明的女孩，她善于思考，可以从复杂的问题中找到最佳解决方案。同时，她也非常热情，乐于交流，给人留下深刻的印象，是一个可以让人依赖的伙伴。","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":37,"completion_tokens":498,"total_tokens":535}}
+
+2023/02/02 15:50:56 gpt response text: 选
+
+1.张美丽：张美丽是一个热情的女孩，她热爱生活，乐于分享，热衷于交朋友。她总是乐于助人，总是乐于分享，非常乐观，非常勤奋，充满正能量！
+
+2.李慧：李慧是一个非常有才华的女孩，她有着非常棒的艺术天赋，可以在绘画，书法，音乐，舞蹈等方面表现出色。她也非常善良，富有同情心，乐于帮助他人，并且有着不凡的心智。
+
+3.陈思：陈思是一个非常聪明的女孩，她善于思考，可以从复杂的问题中找到最佳解决方案。同时，她也非常热情，乐于交流，给人留下深刻的印象，是一个可以让人依赖的伙伴。 
+2023/02/02 15:50:56 RetCode:0  Selector:0
+2023/02/02 15:50:56 RetCode:0  Selector:2
+2023/02/02 15:51:06 RetCode:0  Selector:2
+2023/02/02 15:51:10 RetCode:0  Selector:2
+2023/02/02 15:51:18 RetCode:0  Selector:2
+2023/02/02 15:51:21 RetCode:0  Selector:2
+2023/02/02 15:51:46 RetCode:0  Selector:0
+2023/02/02 15:51:53 RetCode:0  Selector:2
+2023/02/02 15:51:54 RetCode:0  Selector:2
+2023/02/02 15:52:20 RetCode:0  Selector:0
+2023/02/02 15:52:45 RetCode:0  Selector:0
+2023/02/02 15:52:56 RetCode:0  Selector:2
+2023/02/02 15:53:15 RetCode:0  Selector:2
+2023/02/02 15:53:41 RetCode:0  Selector:0
